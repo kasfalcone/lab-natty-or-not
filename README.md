@@ -19,4 +19,4 @@ Utilizei o "ChatGPT" para revisar minha pesquisa sobre os principais pilares das
 Este eBook foi projetado para ser um recurso educativo e inspirador, combinando teoria robusta com exemplos práticos e visuais para ajudar você a entender e aplicar as IAs generativas de maneira eficaz. Seja você um estudante, um profissional da área ou um entusiasta da tecnologia, este guia é a sua porta de entrada para um campo inovador e em constante evolução
 
 
-[LINK PARA O E-BOOK AQUI] 
+[LINK PARA O E-BOOK AQUI](https://github.com/kasfalcone/lab-natty-or-not/blob/main/Ebook-Principais%20Pilares%20das%20IAs%20Generativas.pdf)
